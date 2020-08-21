@@ -1,0 +1,5 @@
+include_directories(${PROJECT_SOURCE_DIR})
+
+add_executable(OpcUa.RunService main.cpp ${PROJECT_SOURCE_DIR}/OpcUaWrapper.h)
+
+# link_directories(OpcUa.RunService )

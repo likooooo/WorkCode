@@ -1,0 +1,9 @@
+G:/Code/VSCode/Lua53_msvc/build/CMakeFiles/PACKAGE.dir
+G:/Code/VSCode/Lua53_msvc/build/CMakeFiles/ALL_BUILD.dir
+G:/Code/VSCode/Lua53_msvc/build/CMakeFiles/ZERO_CHECK.dir
+G:/Code/VSCode/Lua53_msvc/build/lualib/CMakeFiles/MSVCLua53.dir
+G:/Code/VSCode/Lua53_msvc/build/lualib/CMakeFiles/PACKAGE.dir
+G:/Code/VSCode/Lua53_msvc/build/luac/CMakeFiles/Luac.dir
+G:/Code/VSCode/Lua53_msvc/build/luac/CMakeFiles/PACKAGE.dir
+G:/Code/VSCode/Lua53_msvc/build/lua/CMakeFiles/Lua.dir
+G:/Code/VSCode/Lua53_msvc/build/lua/CMakeFiles/PACKAGE.dir

@@ -1,0 +1,2 @@
+G:\Code\VSCode\LuaCallCpp\build\Debug\CppMethord.pdb
+G:\Code\VSCode\LuaCallCpp\build\CppMethord.dir\Debug\CppMethord.pdb

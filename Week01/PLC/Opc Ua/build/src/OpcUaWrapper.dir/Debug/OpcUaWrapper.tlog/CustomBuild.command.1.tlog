@@ -1,0 +1,10 @@
+^D:\可编程组态化的精密运动平台控制\.DOCUMENT\OPC\PROJECT.OPEN62541\SRC\CMAKELISTS.TXT
+setlocal
+E:\cmake-3.18.1-win64-x64\bin\cmake.exe -SD:/可编程组态化的精密运动平台控制/.Document/OPC/Project.Open62541 -BD:/可编程组态化的精密运动平台控制/.Document/OPC/Project.Open62541/build --check-stamp-file D:/可编程组态化的精密运动平台控制/.Document/OPC/Project.Open62541/build/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

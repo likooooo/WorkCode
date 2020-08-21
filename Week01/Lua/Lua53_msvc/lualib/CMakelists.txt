@@ -1,0 +1,18 @@
+#编译lua.lib
+
+#添加源码
+AUX_SOURCE_DIRECTORY(${CMAKE_CURRENT_SOURCE_DIR} ALL_SRC)
+
+#创建lib
+add_library(${PROJECT_NAME}  ${ALL_SRC})
+
+#设定名称和版本
+set(CPACK_PROJECT_NAME lua53_msvc19)
+set(CPACK_PROJECT_VERSION 2.0)
+
+#设置输出路径
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY_RELEASE ${PROJECT_SOURCE_DIR}/Bin)
+set(CMAKE_LIBRARY_OUTPUT_DIRECTORY_DEBUG ${PROJECT_SOURCE_DIR}/Bin)
+
+#message
+message(------------------LuaLibsucess)

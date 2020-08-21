@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\可编程组态化的精密运动平台控制\.Document\OPC\Project.Open62541\src\OpcUaWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\可编程组态化的精密运动平台控制\.Document\OPC\Project.Open62541\src\open62541.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\可编程组态化的精密运动平台控制\.Document\OPC\Project.Open62541\include\OpcUaWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\可编程组态化的精密运动平台控制\.Document\OPC\Project.Open62541\include\open62541.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\可编程组态化的精密运动平台控制\.Document\OPC\Project.Open62541\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{72CA61FC-0226-3008-9FC5-D6A433FC9310}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DE7238C1-C8B4-315D-8B8D-EF994CB2011B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

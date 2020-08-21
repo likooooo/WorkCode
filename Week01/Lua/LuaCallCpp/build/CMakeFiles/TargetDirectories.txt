@@ -1,0 +1,4 @@
+G:/Code/VSCode/LuaCallCpp/build/CMakeFiles/LuaCallCpp.dir
+G:/Code/VSCode/LuaCallCpp/build/CMakeFiles/PACKAGE.dir
+G:/Code/VSCode/LuaCallCpp/build/CMakeFiles/ALL_BUILD.dir
+G:/Code/VSCode/LuaCallCpp/build/CMakeFiles/ZERO_CHECK.dir

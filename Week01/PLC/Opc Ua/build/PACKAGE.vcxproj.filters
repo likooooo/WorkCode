@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\可编程组态化的精密运动平台控制\.Document\OPC\Project.Open62541\build\CMakeFiles\0c3e185723bcabee28e0b51b2cc0480d\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8A670C3B-93A2-3F55-BDDB-BEE8C84949BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+G:\Code\VSCode\Lua53_msvc\build\lualib\Debug\MSVCLua53.pdb
+G:\Code\VSCode\Lua53_msvc\build\lualib\MSVCLua53.dir\Debug\MSVCLua53.pdb

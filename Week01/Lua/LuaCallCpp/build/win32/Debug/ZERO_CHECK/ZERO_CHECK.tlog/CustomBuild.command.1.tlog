@@ -1,0 +1,10 @@
+^G:\CODE\VSCODE\LUACALLCPP\BUILD\CMAKEFILES\360B5A2E2F145CF5566CDB85817223A4\GENERATE.STAMP.RULE
+setlocal
+E:\cmake-3.18.1-win64-x64\bin\cmake.exe -SG:/Code/VSCode/LuaCallCpp -BG:/Code/VSCode/LuaCallCpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file G:/Code/VSCode/LuaCallCpp/build/LuaCallCpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
